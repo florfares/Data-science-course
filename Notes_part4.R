@@ -124,4 +124,4 @@ X_hat <- 0.48
 (2*X_hat - 1) + c(-2, 2)*2*sqrt(X_hat*(1-X_hat)/N)
 
 
-#Section 4: Statistical Models / Section 4 Overview
+#Section 4: Statistical Models 
