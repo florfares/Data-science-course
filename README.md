@@ -1,4 +1,4 @@
-These are my answers to the assessments in a Data Science course, not necesarily are the correct answer (or the only possible answer).
+These are my notes and answers to the assessments in a Data Science course, not necesarily are the correct answer (or the only possible answer).
 The Data Science course was structured in 8 courses, which have special applications in R:
 1-R Basics
 2-Data visualization
