@@ -8,4 +8,4 @@ The Data Sciences course is structured in 8 courses, which have special applicat
 6-Wrangling
 7-Linear regression
 8-Machine Learning
-9-Capstone
+
